@@ -1,6 +1,5 @@
 from typing import Counter
 
-
 counter = 10
 number = 30
 
